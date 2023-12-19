@@ -9,7 +9,7 @@
 }
 
 :root {
-  /*--------bg color-------*/
+  /*--------background color-------*/
   --bg-color1: #f5f8fa;
   --bg-color2: #ffffff;
   --bg-color3: #038e7d;
@@ -61,7 +61,7 @@ nav ul {
   align-items: center;
 }
 
-/*------nav typography styling-----*/
+/*------nav styling-----*/
 nav ul a {
   text-decoration: none;
   color: var(--text-color1);
@@ -280,6 +280,7 @@ button:hover {
 .white-container img {
   margin-top: 25px;
   margin-left: 40%;
+  border-radius: 50%;
 }
 
 aside {
